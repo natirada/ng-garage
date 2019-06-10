@@ -1,0 +1,56 @@
+.welcome {
+    background-image: url(../../assets/image/background-garage.jpg);
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.support {
+    height: 100vh;
+    background-color:whitesmoke;
+}
+
+.title-support {
+    margin: 0 auto;
+    margin-top: 7rem;
+    margin-bottom: 4rem;
+}
+
+.team {
+    height: 100vh;
+    background-color: rgb(166, 175, 182);
+    /* color: rgb(104, 114, 122); */
+}
+.card-image {
+    width: 18rem;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+}
+
+.profile {
+    height: 24.5rem;
+    width: 23.5rem;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-around;
+    
+}
+.profile-image {
+    width: 12rem;
+    height: 12rem;
+    border-radius: 50%;
+    margin: 0 auto;
+    box-shadow: 1rem .5rem .5rem darkslategrey;
+}
+
+.center-team {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
